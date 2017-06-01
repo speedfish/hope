@@ -18,6 +18,8 @@
 }
 .box_1 {
 }
+.box_3 {
+}
 .ellipse {
 }
 ._图片 {
@@ -25,6 +27,9 @@
 ._形状 {
 }
 ._图片1 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -71,4 +76,8 @@
 ._流程形状 {
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
