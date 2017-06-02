@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u791_div {
+#u812_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,14 +29,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u791 {
+#u812 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:604px;
 }
-#u792 {
+#u813 {
   position:absolute;
   left:2px;
   top:294px;
@@ -44,7 +44,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u793_div {
+#u814_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -57,38 +57,40 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#666666;
   line-height:22px;
 }
-#u793 {
+#u814 {
   position:absolute;
   left:10px;
   top:257px;
   width:355px;
   height:308px;
+  color:#666666;
   line-height:22px;
 }
-#u794 {
+#u815 {
   position:absolute;
   left:0px;
   top:0px;
   width:355px;
   word-wrap:break-word;
 }
-#u795_img {
+#u816_img {
   position:absolute;
   left:0px;
   top:0px;
   width:355px;
   height:188px;
 }
-#u795 {
+#u816 {
   position:absolute;
   left:10px;
   top:59px;
   width:355px;
   height:188px;
 }
-#u796 {
+#u817 {
   position:absolute;
   left:2px;
   top:86px;
@@ -96,21 +98,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u797_img {
+#u818_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:42px;
 }
-#u797 {
+#u818 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:42px;
 }
-#u798 {
+#u819 {
   position:absolute;
   left:2px;
   top:13px;
@@ -118,21 +120,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u799_img {
+#u820_img {
   position:absolute;
   left:0px;
   top:0px;
   width:24px;
   height:24px;
 }
-#u799 {
+#u820 {
   position:absolute;
   left:341px;
   top:9px;
   width:24px;
   height:24px;
 }
-#u800 {
+#u821 {
   position:absolute;
   left:2px;
   top:4px;
@@ -140,7 +142,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u801_div {
+#u822_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -155,7 +157,7 @@
   box-shadow:none;
   font-size:16px;
 }
-#u801 {
+#u822 {
   position:absolute;
   left:10px;
   top:11px;
@@ -163,7 +165,7 @@
   height:19px;
   font-size:16px;
 }
-#u802 {
+#u823 {
   position:absolute;
   left:0px;
   top:0px;
